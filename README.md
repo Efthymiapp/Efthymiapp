@@ -1,2 +1,1 @@
-![typing_efthymia](https://github.com/user-attachments/assets/0cd2cc4e-74b3-4ce6-8794-42d4b32de786)
-
+![typing_efthymia](https://github.com/user-attachments/assets/0cd2cc4e-74b3-4ce6-8794-42d4b32de786)                                                                                             ![d80cfebb44d9cee85ae44a0ce7848282_w200](https://github.com/user-attachments/assets/099cf331-5203-451f-b098-16d4e9b8a86d)
