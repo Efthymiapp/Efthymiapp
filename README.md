@@ -31,11 +31,12 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efthymiapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=efthymiapp&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=percentile&custom_title=GitHub+Stats&show=contributions" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efthymiapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=efthymiapp&theme=dracula&margin-w=15&margin-h=15" />
 
+---
 
 <img src="https://raw.githubusercontent.com/efthymiapp/efthymiapp/output/snake.svg" alt="Snake animation" />
