@@ -35,5 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efthymiapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=efthymiapp&theme=dracula&margin-w=15&margin-h=15" />
+
 
 <img src="https://raw.githubusercontent.com/efthymiapp/efthymiapp/output/snake.svg" alt="Snake animation" />
