@@ -1,5 +1,4 @@
-![tumblr_0556311c7d1960ca54788c9afa5b4a5f_07b8efcf_540](https://github.com/user-attachments/assets/ac008699-e5a1-47b8-87b0-812813461e70) ![typing_efthymia](https://github.com/user-attachments/assets/0cd2cc4e-74b3-4ce6-8794-42d4b32de786)
-
+ ![typing_efthymia](https://github.com/user-attachments/assets/0cd2cc4e-74b3-4ce6-8794-42d4b32de786)
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=efthymiapp&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=percentile&custom_title=GitHub+Stats&show=contributions" />
