@@ -1,7 +1,5 @@
 ![typing_efthymia](https://github.com/user-attachments/assets/0cd2cc4e-74b3-4ce6-8794-42d4b32de786)                                                                                                                               ![d80cfebb44d9cee85ae44a0ce7848282_w200](https://github.com/user-attachments/assets/099cf331-5203-451f-b098-16d4e9b8a86d)
 
-![image](https://github.com/user-attachments/assets/78d6ff29-8529-4d69-812a-02a6b0e10cf5)
-
 ---
 
 ![tumblr_0556311c7d1960ca54788c9afa5b4a5f_07b8efcf_540](https://github.com/user-attachments/assets/ac008699-e5a1-47b8-87b0-812813461e70) 
